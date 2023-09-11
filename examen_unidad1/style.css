@@ -1,0 +1,51 @@
+
+body{
+background-color: white;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+}
+
+#titlePrincipal{
+    font-size: 45px;
+    color: black;
+    padding: 100;
+    margin-bottom: 50px;
+}
+
+#containerCard {
+
+}
+
+.personalCard {
+
+    background-color: #feecbd;
+    border: 3px solid #ccc;
+    padding: 7px;
+    margin: 10px;
+    width: calc(50% - 100px);
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.personalCard img {
+
+    max-width: 100%;
+    height: 250px;
+
+}
+
+.personalCard p {
+
+    font-size: 18px;
+    color: #667
+
+}
+
+.personalCard li {
+
+    padding-top: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+
+}
